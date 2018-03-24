@@ -1,4 +1,7 @@
-Frontend JavaScript framework
-Created and maintained by Google
-Used to build powerfuk frint-end applications
-Part of the very powerful MEAN stack (MongoDB express angular Nodejs)
+Frontend JavaScript framework.
+
+Created and maintained by Google.
+
+Used to build powerful front-end applications.
+
+Part of the very powerful MEAN stack (MongoDB express angular Nodejs).
