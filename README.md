@@ -1,19 +1,27 @@
-<h1>Angular</h1> 
+# Angularapp
 
-<li>Frontend JavaScript framework.</li>
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
-Created and maintained by Google.
+## Development server
 
-Used to build powerful front-end applications.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Part of the very powerful MEAN stack (MongoDB express angular Nodejs).
+## Code scaffolding
 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-<h5> 1. Use terminal to install angular with nodejs
-    npm install -g @angular/cli
+## Build
 
-if not work, try run the same command with 
-  sudo npm install -g @angular/cli
-<h5> 2. Create project folder, then run command
-  ng new angularapp
-  this will install all the pieces for angular framework
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
